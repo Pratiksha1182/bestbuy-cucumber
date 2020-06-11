@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product CRUD test","This test will create a new products and verify its generated","SUCCESS","2020-06-11T09:57:47.254+01:00[Europe/London]","0.0","0.31"
+"Product CRUD test","This test will get the product information by ID","SUCCESS","2020-06-11T09:57:47.570+01:00[Europe/London]","0.0","0.08"
+"Product CRUD test","This test will update the product information and verify the updated information","SUCCESS","2020-06-11T09:57:47.652+01:00[Europe/London]","0.0","0.33"
+"Product CRUD test","This test will delete the product information and verify the product is deleted ","SUCCESS","2020-06-11T09:57:47.981+01:00[Europe/London]","0.0","0.2"

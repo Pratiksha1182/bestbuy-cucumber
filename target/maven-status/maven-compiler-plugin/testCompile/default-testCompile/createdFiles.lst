@@ -1,0 +1,9 @@
+com\playground\bestbuy\crudtest\StoresCRUDTest.class
+com\playground\bestbuy\stepdefs\ProductsStepdefs.class
+com\playground\bestbuy\testbase\TestBase.class
+com\playground\bestbuy\crudtest\ServicesCRUDTest.class
+com\playground\bestbuy\crudtest\CategoriesCRUDTest.class
+com\playground\bestbuy\stepdefs\CategoriesStepdefs.class
+com\playground\bestbuy\crudtest\ProductCRUDTest.class
+com\playground\bestbuy\stepdefs\ServicesStepdefs.class
+com\playground\bestbuy\stepdefs\StoresStepdefs.class
